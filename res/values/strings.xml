@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="focused">Focused</string>
+    <string name="scanned">Scanned</string>
+    <string name="pref">Preference</string>
+    <string name="about">About</string>
+    <string name="app_name">QrReader</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_read">Cannot read</string>
+    <string name="copyright">Copyright &#169; 2013-2016 YA (ya.androidapp@gmail.com) All rights reserved.</string>
+    <string name="license">This software includes the work that is distributed in the Apache License 2.0(http://www.apache.org/licenses/LICENSE-2.0.txt)</string>
+    <string name="zxing"> zxing(http://code.google.com/p/zxing/)</string>
+    <string name="ok">OK</string>
+    <string name="empty"></string>
+    <string name="send_intent">Send Intent</string>
+    <string name="send_intent_dial">Call phone</string>
+    <string name="send_intent_text">Send Text</string>
+    <string name="send_intent_uri">Send URI</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_qr_reader">QrReader</string>
+    <string name="send_to_s4a">Send Text to Shiobe for Android</string>
+
+</resources> <!-- Copyright (c) 2013-2016 YA <ya.androidapp@gmail.com> All rights reserved. -->
